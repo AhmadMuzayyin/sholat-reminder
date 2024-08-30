@@ -176,7 +176,6 @@
         </div>
     </div>
     @include('addAlarmModal')
-    <audio id="alarmAudio" src="{{ url('alarm.mp3') }}" preload="auto"></audio>
     {{-- end modal alarm --}}
     {{-- modal hijriyah --}}
     <div class="modal fade text-center" id="kalender" tabindex="-1" aria-labelledby="kalender"
