@@ -156,21 +156,7 @@
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-body">
-                    <table class="table table-borderless table-responsive">
-                        <thead>
-                            <tr>
-                                <th>Label</th>
-                                <th>Alarm</th>
-                                <th>Perulangan</th>
-                            </tr>
-                        </thead>
-                        <tbody id="tableAlarm"></tbody>
-                    </table>
-                    <div class="mt-3">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal"
-                            data-bs-target="#addAlarm">Tambah</button>
-                    </div>
+                    <p>on going</p>
                 </div>
             </div>
         </div>
