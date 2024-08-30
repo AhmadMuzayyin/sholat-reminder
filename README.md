@@ -8,6 +8,7 @@
 ## About SholatReminder
 SholatReminder adalah aplikasi berbasis desktop yang dibangun dengan NativePHP, dirancang khusus untuk membantu umat Muslim mengatur waktu sholat secara efisien dan praktis. Aplikasi ini menawarkan fitur utama berupa jadwal sholat harian yang akurat, memungkinkan pengguna untuk membuat alarm sholat dengan nada default atau nada kustom pilihan sendiri, serta menyediakan kalender Masehi dan Hijriyah yang lengkap.
 
+## Fitur SholatReminder
 Fitur utama SholatReminder meliputi:
 - Jadwal Sholat Harian: Menyediakan jadwal sholat yang akurat sesuai lokasi pengguna, membantu memastikan sholat tepat waktu.
 - Fitur Alarm: Fitur untuk membuat alarm yang dapat disesuaikan dengan nada default atau custom, sehingga pengguna dapat memilih suara pengingat yang paling sesuai.
